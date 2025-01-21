@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Accidental token or credential leakage presents a significant concern within digital environments. 
+Current secret detection methods employ ruleset-based techniques to identify secret information. 
+These methods use pattern recognition within strings (i.e. regex rules) to pinpoint characteristics that resemble various types of secrets. 
+My research addresses the possibility of using heuristics to develop a reliable and accurate method for determining if a given string is merely a piece of inconsequential data or a leaked secret requiring timely attention.
