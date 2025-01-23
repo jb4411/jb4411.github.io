@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Thesis proposal approved!"
+title:  "Update for the week of 1/13 - 1/17."
 date:   2025-01-17
 category: thesis-updates
 ---
 
 Update for the week of 1/13 - 1/17.
+
+Thesis proposal approved!
 
 ### Challenges:
 The last-minute scramble to get my thesis proposal completed, get all the decisions and approvals in place to get the proposal in, and get officially registered for my thesis.
