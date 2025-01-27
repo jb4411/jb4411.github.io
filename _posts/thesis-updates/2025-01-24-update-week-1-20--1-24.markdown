@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Update for the week of 1/20 - 1/24."
+date:   2025-01-24
+category: thesis-updates
+---
+
+Update for the week of 1/20 - 1/24.
+
+### Gratitudes:
+- Basic tokenizer for python code working 
+- Highlighted PDF creation based on python code 
+- Started work on integrating the secret detection code used in preliminary research.
+
+### Challenges:
+- Getting highlighting and formatting to work for the generated PDFs has been annoying and a pain. The output is equivalent to the original file, but not identical due to the way the tokenizer handles whitespace that is not syntactically required, but instead added for stylistic purposes.
+
+### Next week’s priorities:
+- Finish integrating existing secret detection 
+- Find code to test on 
+- Look into tokenizing some types of simple config files
+

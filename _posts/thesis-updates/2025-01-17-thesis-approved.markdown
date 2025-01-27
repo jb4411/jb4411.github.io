@@ -9,14 +9,13 @@ Update for the week of 1/13 - 1/17.
 
 Thesis proposal approved!
 
-### Challenges:
-The last-minute scramble to get my thesis proposal completed, get all the decisions and approvals in place to get the proposal in, and get officially registered for my thesis.
-
-
 ### Gratitudes:
 - getting registered for thesis
 - getting a GitHub repository set up
 - having a committee that is small, and composed of people who are both truly smart and sincerely kind
+
+### Challenges:
+- The last-minute scramble to get my thesis proposal completed, get all the decisions and approvals in place to get the proposal in, and get officially registered for my thesis.
 
 ### Next week’s priorities:
 - getting my thesis website set up
