@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Update for the week of 1/27 - 1/31."
+date:   2025-01-31
+category: thesis-updates
+---
+
+Update for the week of 1/27 - 1/31.
+
+### Gratitudes:
+- Really appreciated the Zoom meeting with my thesis committee
+- Integrated existing secret detection with Python tokenization
+- Improved visualizations for testing various techniques
+
+### Challenges:
+- Getting the secret detector to work well with code is looking like it will require some non-trivial changes to the solution vector, as well as new techniques
+- Changing the solution vector means new solution vectors will need to be found
+- Changing the solution vector also means that other portions of the code will need to be updated to reflect this
+
+### Next week’s priorities:
+- "Related work" section in thesis (shannon entropy for secret detection)
+- Overleaf file - may need to make Ivona the owner…
+- Developing a new solution vector
