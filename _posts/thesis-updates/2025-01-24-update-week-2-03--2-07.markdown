@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Update for the week of 2/3 - 2/7."
+date:   2025-02-07
+category: thesis-updates
+---
+
+Update for the week of 2/3 - 2/7.
+
+### Gratitudes:
+- Found some good references for Shannon Entropy based secret detection which have also given me some new techniques to look into
+- Created an Overleaf file for my thesis
+
+### Challenges:
+- None of the Shannon Entropy references are as easily citable as traditionally published papers, which is annoying
+- Reworking and updating code to accommodate a new solution vector has been more time consuming than I had hoped
+- Finding time to work on my thesis was difficult this week
+
+### Next week’s priorities:
+- Developing a new solution vector (continued)
+- Investigating techniques discovered while searching for Shannon Entropy secret detection references 
