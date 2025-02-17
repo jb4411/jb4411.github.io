@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Update for the week of 2/10 - 2/14."
+date:   2025-02-14
+category: thesis-updates
+---
+
+Update for the week of 2/10 - 2/14.
+
+### Gratitudes:
+- Completely rewrote the way files are handled, and updated all existing code to use this new system. These changes mean that all code should now work properly regardless of current working directory.
+- Integrated code for finding solution vectors from preliminary research into the new codebase
+
+### Challenges:
+- Rewriting the file handling revealed limitations and problems with the way datasets are loaded, which will also require a rewrite
+- Rewriting dataset loading is proving to be complicated due to the places datasets are used being spread throughout the codebase for preliminary research
+
+### Next week’s priorities:
+- Rewriting dataset loading
+- Developing a new solution vector (continued)
+- Investigating techniques discovered while searching for Shannon Entropy secret detection references (continued)
