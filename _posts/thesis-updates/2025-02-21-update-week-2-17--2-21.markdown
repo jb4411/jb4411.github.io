@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Update for the week of 2/17 - 2/21."
+date:   2025-02-21
+category: thesis-updates
+---
+
+Update for the week of 2/17 - 2/21.
+
+### Gratitudes:
+- Completely rewrote the dataset loading system. This rewrite should make testing new datasets far easier.
+- Started testing a dataset created from a Python codebase
+
+
+### Challenges:
+- The previous dataset system was highly fractured and had many non-general parts, which lead to the rewrite being tedious and finicky
+- Many of the ideas I plan to test are requiring significant rewrites, upgrades, and/or additions to the existing foundation to be tested. However, once all this foundational code is complete, testing should proceed much faster
+
+
+### Next week’s priorities:
+- Creating and testing new datasets
+- Developing a new solution vector (continued)
+- Investigating techniques discovered while searching for Shannon Entropy secret detection references (continued)
