@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Update for the week of 2/24 - 2/28."
+date:   2025-02-28
+category: thesis-updates
+---
+
+Update for the week of 2/24 - 2/28.
+
+### Gratitudes:
+- I was finally able to once again test new and different solution vectors now that more foundational code is in place.
+- I implemented and tested models using a neural network (as opposed to a solution vector)
+- Tested a new innocuous dataset that was created from existing Python codebases using my newly streamlined data preprocessing
+
+### Challenges:
+- One of the new neural network models is fairly unstable, and will likely require different training code to make training stable
+- Finding sufficient amounts of code to use for the innocuous dataset is proving difficult
+
+### Next week’s priorities:
+- Finding additional code for the innocuous dataset
+- Rewriting training code and NN model for better stability
+- Investigating techniques discovered while searching for Shannon Entropy secret detection references (continued)
