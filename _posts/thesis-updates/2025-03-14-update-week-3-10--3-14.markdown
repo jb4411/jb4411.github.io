@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Update for the week of 3/10 - 3/14."
+date:   2025-03-14
+category: thesis-updates
+---
+
+Update for the week of 3/10 - 3/14.
+
+### Gratitudes:
+- Added a regex mode to use when comparing to my techniques
+- Was able to meet with one of my committee members in person and we determined that the code is in a good place, and I can switch my focus to writing up my thesis
+
+
+### Challenges:
+- Had less time to work on my thesis due to traveling this week (but got to see my grandfather blow out the candles on his 100th birthday cake)
+
+### Next week’s priorities:
+- Start the writing for my thesis
+- Work on graphs and visualizations for thesis
