@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Update for the week of 3/3 - 3/7."
+date:   2025-03-07
+category: thesis-updates
+---
+
+Update for the week of 3/3 - 3/7.
+
+### Gratitudes:
+- Investigated techniques discovered while searching for Shannon Entropy secret detection references
+- Started on graphs and visualizations for thesis
+
+
+### Challenges:
+- Had less time to work as I am preparing to go on a trip next week (to visit my grandfather on his 100th birthday)
+
+### Next week’s priorities:
+- Add Regex support to codebase to enable comparisons to my techniques
+- Meet with a committee member to determine if I should change my focus to writing up my thesis now that the codebase is in good shape
