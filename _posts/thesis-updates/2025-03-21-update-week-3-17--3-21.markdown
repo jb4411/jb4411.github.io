@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Update for the week of 3/17 - 3/21."
+date:   2025-03-21
+category: thesis-updates
+---
+
+Update for the week of 3/17 - 3/21.
+
+### Gratitudes:
+- Streamlined the code used for testing and better integrated Regex
+- Compiled all thesis related notes and writing
+- Worked on thesis
+
+
+### Challenges:
+- My thesis notes and writing are rather spread out, so pulling information together from these sources is tedious at times
+- Busy week - less time to work on thesis than I would have liked
+
+
+### Next week’s priorities:
+- Continue writing my thesis
+- Continue working on graphs and visualizations for thesis
+- Set up meeting with thesis committee
