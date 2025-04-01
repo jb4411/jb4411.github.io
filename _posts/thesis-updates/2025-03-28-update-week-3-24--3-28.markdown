@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Update for the week of 3/24 - 3/28."
+date:   2025-03-28
+category: thesis-updates
+---
+
+Update for the week of 3/24 - 3/28.
+
+### Gratitudes:
+- Updated and balanced dataset
+- Met with thesis committee and set up next meeting
+- Implemented Huffman coding
+- Retrained ML model and solution vector
+
+
+### Challenges:
+- Reworking code to use Huffman coding instead of Zlib
+- Retraining both the ML model and solution vector using the new dataset
+
+
+### Next week’s priorities:
+- Continue writing my thesis
+- Get thesis draft to a point where it can be shared with my committee
+- Meet with my academic advisor
