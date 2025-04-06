@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Update for the week of 3/31 - 4/4."
+date:   2025-04-04
+category: thesis-updates
+---
+
+Update for the week of 3/31 - 4/4.
+
+### Gratitudes:
+- Met with academic advisor
+- Implemented a new metric - character type mix / character type chunking. This metric helped improve accuracy, especially for shorter strings.
+- Trained new ML model and solution vector using the new metric.
+- Continued writing thesis
+
+### Challenges:
+- Reworking code to use the new metric
+- Retraining both the ML model and solution vector using the new metric
+- Creating some of the graphs / visualizations needed for thesis
+
+### Next week’s priorities:
+- Continue writing my thesis
+- Get thesis draft to a point where it can be shared with my committee
+- Meet with full thesis committee 
